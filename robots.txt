@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amir-mansoor.github.io/flappy-bird/sitemap.xml
