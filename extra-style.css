@@ -1,0 +1,48 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+/* Header */
+header {
+  background: #222;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+}
+
+/* Game Title */
+.game-title h1 {
+  font-size: 36px;
+  margin: 20px 0;
+}
+
+/* Game Screen */
+.game-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-description {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* About Page */
+.about-container {
+  padding: 50px;
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}
